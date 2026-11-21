@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tp13-reactnative",
+    "slug": "tp13-reactnative",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
